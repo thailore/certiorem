@@ -1,0 +1,28 @@
+{
+  "name": "certioremjs",
+  "version": "1.0.0",
+  "description": "Networking app to notify subscribers whenever new assignments are posted",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thailore/certiorem.git"
+  },
+  "keywords": [
+    "network",
+    "client",
+    "server",
+    "database"
+  ],
+  "author": "kofiachie, thailore, adam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thailore/certiorem/issues"
+  },
+  "homepage": "https://github.com/thailore/certiorem",
+  "dependencies": {
+    "express": "^4.13.3",
+    "nodemailer": "^1.8.0"
+  }
+}
