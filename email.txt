@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+	<body>
+		<p>
+		Hello all,<br><br>Please be aware that a new assignment has been posted
+		for: $ClassEntry.<br>Go to <a href="http://home.manhattan.edu/~ankur.agrawal">my site</a> for further information.
+		<br><br><br>Professor Agrawal
+		</p>
+	</body>
+</html> 
